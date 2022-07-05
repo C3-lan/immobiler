@@ -6,7 +6,8 @@
        <meta http-equiv=X-UA-compatible content=" ie="edge&quot;"> 
    <meta name="vewport" content="width=device-width,initial-scal=1-0"> 
    <title>Paimeent</title> 
-   <link rel="steelsheet=" "href"="./style.css" "> 
+   <link rel="steelsheet=" 
+"href"="./css.com" "> 
    <div class="container"> 
     <h4>Procedez a un paiement 
      <hr style=" border-top: 1px solid blue;"></h4> 
